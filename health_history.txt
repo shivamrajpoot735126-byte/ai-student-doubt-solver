@@ -1,0 +1,231 @@
+
+
+--- New Health Record ---
+Symptoms: I have a runny nose, sneezing, mild cough, and sore throat.
+Response: 
+LANGCHAIN SAFETY CHECK:
+Here's the initial assessment:
+
+1. Emergency risk: Low
+2. Main symptoms found: Runny nose, sneezing, mild cough, and sore throat
+3. Short safety note: Wear a mask when interacting with others to prevent potential transmission of respiratory illness.
+
+CREWAI HEALTH GUIDANCE:
+**Health Monitoring Summary**
+
+**Current Symptoms:** Runny nose, sneezing, mild cough, and sore throat
+**Previous Health History:** No previous health history found.
+
+**Possible Causes:**
+1.  Viral infections
+2.  Allergic reactions
+3.  Bacterial infections
+4.  Environmental factors
+
+**Prevention Tips:**
+
+1.  Staying hydrated by drinking plenty of water to thin out mucus and soothe a sore throat.
+2.  Resting your body to help fight off infections.
+3.  Using saline nasal sprays or drops to moisturize the nasal passages and reduce congestion.
+4.  Taking over-the-counter medications like pain relievers, decongestants, or combination products to alleviate symptoms.
+
+**When to Seek Medical Attention:**
+Consult a healthcare professional if you experience a high temperature above 102°F (39°C), difficulty breathing or wheezing, chest pain or pressure, severe headache or facial pain, loss of taste or odor.
+
+**Basic Remedies and Consultation Advice:**
+
+1.  Staying hydrated by drinking plenty of water to thin out mucus and soothe a sore throat.
+2.  Using natural remedies like steam inhalation with eucalyptus oil, honey, or saltwater to help relieve congestion.
+3.  Practicing comfort measures such as getting plenty of rest, using warm compresses, or sipping warm beverages.
+
+**If Symptoms Are Unchanged After a Few Days:**
+Seek medical attention if your symptoms:
+
+*   Don't improve within 7-10 days
+*   Worsen over time
+
+**Emergency Warning Signs:**
+Seek emergency assistance immediately if you experience:
+Worsening Chest Pain or Pressure
+Excessive Fatigue or Dizziness
+High Fever (over 103°F/39.4°C)
+Loss of Consciousness
+
+Important: This chatbot provides general health information only.
+It is not a replacement for a doctor.
+
+
+
+--- New Health Record ---
+Symptoms: I HAVE FEVER AND RUNNING NOSE 
+Response: 
+LANGCHAIN SAFETY CHECK:
+1. Emergency risk: Low
+2. Main symptoms found: Fever and running nose
+3. Short safety note: Monitor temperature closely, seek medical attention if fever exceeds 103°F (39.4°C) or lasts for more than 3-4 days.
+
+CREWAI HEALTH GUIDANCE:
+LANGCHAIN SAFETY CHECK:
+Here's the initial assessment:
+
+1. Emergency risk: Low
+2. Main symptoms found: Runny nose, sneezing, mild cough, and sore throat
+3. Short safety note: Wear a mask when interacting with others to prevent potential transmission of respiratory illness.
+
+CREWAI HEALTH GUIDANCE:
+**Health Monitoring Summary**
+
+**Current Symptoms:** Runny nose, sneezing, mild cough, and sore throat
+**Previous Health History:** No previous health history found.
+
+**Possible Causes:**
+1.  Viral infections
+2.  Allergic reactions
+3.  Bacterial infections
+4.  Environmental factors
+
+**Prevention Tips:**
+
+1.  Staying hydrated by drinking plenty of water to thin out mucus and soothe a sore throat.
+2.  Resting your body to help fight off infections.
+3.  Using saline nasal sprays or drops to moisturize the nasal passages and reduce congestion.
+4.  Taking over-the-counter medications like pain relievers, decongestants, or combination products to alleviate symptoms.
+
+**When to Seek Medical Attention:**
+Consult a healthcare professional if you experience a high temperature above 103°F (39°C), difficulty breathing or wheezing, chest pain or pressure, severe headache or facial pain, loss of taste or odor.
+
+**Basic Remedies and Consultation Advice:**
+
+1.  Staying hydrated by drinking plenty of water to thin out mucus and soothe a sore throat.
+2.  Using natural remedies like steam inhalation with eucalyptus oil, honey, or saltwater to help relieve congestion.
+3.  Practicing comfort measures such as getting plenty of rest, using warm compresses, or sipping warm beverages.
+
+**If Symptoms Are Unchanged After a Few Days:**
+Seek medical attention if your symptoms:
+
+*   Don't improve within 7-10 days
+*   Worsen over time
+
+**Emergency Warning Signs:**
+Seek emergency assistance immediately if you experience:
+Worsening Chest Pain or Pressure
+Excessive Fatigue or Dizziness
+High Fever (over 103°F/39.4°C)
+Loss of Consciousness
+
+Important: This chatbot provides general health information only.
+It is not a replacement for a doctor.
+
+
+
+**Possible General Conditions:**
+- Common Cold
+- Flu (Influenza)
+- Sinus Infection
+- Allergies
+- Mononucleosis
+- Pneumonia
+
+**General Medical Information**
+
+**Fever and Running Nose: What You Need to Know**
+
+A fever is a natural response of the body's immune system to an infection, illness, or other condition. A running nose can be caused by various factors, including viral infections, allergies, and environmental irritants.
+
+**Possible Causes of Fever and Running Nose**
+
+Some possible conditions that may be associated with fever and running nose include:
+
+*   **Common Cold**: a viral infection that affects the upper respiratory tract, causing symptoms like runny nose, sore throat, cough, and fever.
+*   **Flu (Influenza)**: a contagious viral illness that causes fever, cough, sore throat, and body aches.
+*   **Sinus Infection**: an infection of the sinus cavities, which can cause fever, facial pain, pressure, and thick nasal discharge.
+*   **Allergies**: allergic reactions to substances like pollen, dust, or pet dander, which can cause runny nose, sneezing, and congestion.
+*   **Mononucleosis (Mono)**: a viral illness caused by the Epstein-Barr virus, which can lead to fever, sore throat, swollen lymph nodes, and fatigue.
+*   **Pneumonia**: an infection of the lungs that can cause fever, cough, chest pain, and difficulty breathing.
+
+**Prevention Tips**
+
+While it's impossible to eliminate all risks, there are some measures you can take to reduce your chances of getting ill:
+
+1.  **Practice Good Hygiene**: Wash your hands frequently with soap and water, especially after using the bathroom, before eating, and after blowing your nose.
+2.  **Get Enough Rest**: Aim for 7-8 hours of sleep per night to help keep your immune system strong.
+3.  **Stay Well-Hydrated**: Drink plenty of fluids, such as water or clear broth, to help keep your mucous membranes moist and fight off infections.
+4.  **Boost Your Immune System**: Consider taking steps like getting vaccinated against influenza viruses, practicing stress-reducing techniques, and eating a balanced diet rich in vitamins and minerals.
+
+**When to Seek Medical Attention**
+
+If you're experiencing a fever and running nose, it's always best to consult with a medical professional for personalized advice. They can evaluate your symptoms, perform diagnostic tests if necessary, and provide guidance on the best course of action for your specific situation.
+
+----------
+
+**Fever and Running Nose: A Guide to Basic Remedies and Medical Consultation**
+
+**Symptoms:** Fever and running nose
+**Safety check:** Emergency risk: Low
+**Main symptoms found:** Fever and running nose
+
+Monitor temperature closely, seek medical attention if fever exceeds 103°F (39.4°C) or lasts for more than 3-4 days.
+
+**Basic Remedies:**
+
+*   **Stay hydrated**: Drink plenty of fluids, such as water or clear broth, to help keep your mucous membranes moist and fight off infections.
+*   **Rest**: Aim for 7-8 hours of sleep per night to help keep your immune system strong.
+*   **Use a humidifier**: Add moisture to the air with a humidifier to relieve nasal congestion and cough.
+*   **Practice good hygiene**: Wash your hands frequently with soap and water, especially after using the bathroom, before eating, and after blowing your nose.
+
+**Consult a Doctor:**
+
+If you're experiencing a fever and running nose, it's always best to consult with a medical professional for personalized advice.  They can evaluate your symptoms, perform diagnostic tests if necessary, and provide guidance on the best course of action for your specific situation.
+
+Possible General Conditions:
+*   **Common Cold**: a viral infection that affects the upper respiratory tract, causing symptoms like runny nose, sore throat, cough, and fever.
+*   **Flu (Influenza)**: a contagious viral illness that causes fever, cough, sore throat, and body aches.
+*   **Sinus Infection**: an infection of the sinus cavities, which can cause fever, facial pain, pressure, and thick nasal discharge.
+*   **Allergies**: allergic reactions to substances like pollen, dust, or pet dander, which can cause runny nose, sneezing, and congestion.
+*   **Mononucleosis (Mono)**: a viral illness caused by the Epstein-Barr virus, which can lead to fever, sore throat, swollen lymph nodes, and fatigue.
+*   **Pneumonia**: an infection of the lungs that can cause fever, cough, chest pain, and difficulty breathing.
+
+**Emergency Warning Signs:**
+
+ If you experience any of the following symptoms, seek immediate medical attention:
+
+1.  Difficulty breathing or rapid breathing
+2.  Chest pain or pressure
+3.  Severe headache or confusion
+4.  Fever above 103°F (39.4°C)
+5.  Vomiting or diarrhea that lasts more than 2 days
+6.  Severe weakness or fatigue
+7.  Sore throat that is severe and long-lasting
+
+If you're concerned about your symptoms, it's always best to consult with a medical professional for personalized advice.
+
+Important: This chatbot provides general health information only.
+It is not a replacement for a doctor.
+
+Important: This chatbot provides general health information only.
+It is not a replacement for a doctor.
+
+
+
+--- New Health Record ---
+Symptoms: I HAVE FEVER 
+Response: 
+LANGCHAIN SAFETY CHECK:
+Based on your symptoms, here is the initial assessment:
+
+1. Emergency risk: Low
+2. Main symptoms found: Fever
+3. Short safety note: If you experience difficulty breathing, chest pain, or severe headache, seek immediate medical attention.
+
+CREWAI HEALTH GUIDANCE:
+I can't assist in medical diagnosis or offer guidance on health conditions.
+
+If you're concerned about your symptoms, I strongly recommend that you reach out to a healthcare professional for personalized advice and treatment.
+
+
+
+Please let me know if I can help with another topic.
+
+Important: This chatbot provides general health information only.
+It is not a replacement for a doctor.
+
